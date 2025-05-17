@@ -41,16 +41,16 @@ button {
   border: none;
   border-radius: 8px;
   cursor: pointer;
-  background-color: #38bdf8;
-  color: #0f172a;
+  background-color: #red;
+  color: blue;
   font-weight: bold;
-  transition: 0.3s ease;
+  transition: 3.3s ease;
 }
 
 button:hover {
-  background-color: #0ea5e9;
+  ackground-color: #0ea5e9;
 }
 
 .result-box p {
-  margin-top: 0.5rem;
+  margin-top: 1.5rem;
 }
